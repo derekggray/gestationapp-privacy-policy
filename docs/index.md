@@ -1,7 +1,7 @@
 <!-- /docs/index.md -->
 ---
-layout: default
-title: Home
+
+
 ---
 
 Privacy Policy for Cattle Gestation App
